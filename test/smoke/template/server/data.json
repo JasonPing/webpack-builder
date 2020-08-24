@@ -1,0 +1,39 @@
+{
+  "error": [],
+  "extra": [],
+  "data": {
+    "cert": {
+      "count": 0
+    },
+    "process_groupbuy_count": 0,
+    "could_reply": false,
+    "comments_count": 0,
+    "service_vip": {
+      "status": -1,
+      "etime": 0
+    },
+    "product_count": 2,
+    "msg_count": 264,
+    "likes_count": 0,
+    "valid_coupons_count": 1,
+    "columns_count": 2,
+    "zsxq_on": false,
+    "swell_coupon": {
+      "url": "",
+      "on": false,
+      "desc": ""
+    },
+    "vip": {
+      "status": -1,
+      "etime": 0
+    },
+    "line_share_count": 0,
+    "balance": {
+      "standard": 0,
+      "ios": 0,
+      "gift_standard": 0,
+      "gift_ios": 0
+    }
+  },
+  "code": 0
+}
